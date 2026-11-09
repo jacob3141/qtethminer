@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jacob3141)
+
 # qtethminer
 Pod that directly links the ethereum miner into your application.
 
